@@ -1,5 +1,7 @@
 
-Consumir API VIA CEP com Python.
+![Alt text](https://www.pilotomaster.com.br/pi/topo-readme2-php.jpg)
+
+#Consumir API VIA CEP com Python.
 
 # Como rodar esse script na sua máquina:
 ```
@@ -11,7 +13,7 @@ cd  consulta-cep
 ```bash
 pip install -r requirements.txt
 ```
-3. Finalmente rodar o script.
+3. Rodar o script.
 ```bash
 python main.py
 ```
