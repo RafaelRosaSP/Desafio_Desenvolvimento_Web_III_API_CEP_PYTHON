@@ -8,11 +8,11 @@
 1. Entrar na pasta do projeto.
 cd  consulta-cep
 ```
-2. Instalar as dependências.
 
+2. Instalar as dependências.
 pip install -r requirements.txt
 ```
-3. Rodar o script.
 
+3. Rodar o script.
 python main.py
 ```
